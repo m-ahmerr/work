@@ -1,7 +1,8 @@
+//prints a rectangle of the length and width given by user
 #include <stdio.h>
 int main(){
     int len,wid;
-    printf("Enter how length and width of rectangle\n");
+    printf("Enter the length and width of rectangle\n");
     scanf("%d %d",&len,&wid);
     for(int i=0;i<wid;i++){
         
