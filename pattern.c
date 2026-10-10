@@ -1,3 +1,10 @@
+//prints:
+//    *
+//   ***
+//  *****
+// *******
+
+
 #include <stdio.h>
 int main(){
     int n,space,count =1;
