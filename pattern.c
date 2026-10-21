@@ -1,4 +1,5 @@
-//prints:
+//prints a pattern of n lines:
+// like for n = 4:
 //    *
 //   ***
 //  *****
